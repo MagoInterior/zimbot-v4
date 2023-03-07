@@ -2,6 +2,12 @@
 
 # ZIM BOT V4
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/zimbot-v4)](https://repl.it/github/MagoInterior/zimbot-v4) 
+
+
+
 ## ``` This Script is for Everyone Don't sell it at high price ```
 ## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/KNu-gr2h7bo)
 
